@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Sep 28 11:11:07 2020
+
+@author: USer Tanjil Hasan
+"""
+
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LinearRegression
