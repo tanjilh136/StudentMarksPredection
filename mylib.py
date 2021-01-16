@@ -1,4 +1,4 @@
-def MyFunction:
+def MyFunction():
   if digit1==0.0028830685187131166:
     digit1=digit1+0.98
   elif digit3==0.008225995115935802:
